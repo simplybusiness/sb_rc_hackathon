@@ -1,2 +1,8 @@
 # sb_rc_hackathon
-Simply Business and Resilient Coders hackathon
+simply business and resilient coders hackathon
+
+# house activities
+Raymond Kirkland
+Angel Vidal
+Ashley Laing
+Chris Grandoit
